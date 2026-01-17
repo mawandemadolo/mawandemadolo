@@ -152,9 +152,6 @@
 
 <div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mawandemadolo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawandemadolo&layout=compact&theme=tokyonight&hide_border=true" />
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mawandemadolo&theme=tokyonight&hide_border=true)
 
 </div>
