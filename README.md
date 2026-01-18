@@ -25,27 +25,27 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Web Servers & Proxy**
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Squid](https://img.shields.io/badge/Squid-0066CC?style=for-the-badge&logo=squid&logoColor=white)
-
 ### **Cloud & Infrastructure**
 ![Amazon Web Services](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### **Operating Systems**
-![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
+### **Web Servers & Proxy**
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Squid](https://img.shields.io/badge/Squid-0066CC?style=for-the-badge&logo=squid&logoColor=white)
 
 ### **Database & Data Persistence**
 ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white%22)
+
+### **Operating Systems**
+![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
 
 ### **Network Security & Certifications**
 ![Fortinet NSE 1](https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
