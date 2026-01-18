@@ -142,42 +142,6 @@
 
 ---
 
-> **`📝 Note:`** Frontend projects developed using AWS internal tools (CloudScape) and proprietary platforms cannot be shared publicly, but experience includes modern React/TypeScript applications and responsive web interfaces.
-
-</div>
-
----
-
-## 📊 **`GitHub Analytics`**
-
-<div align="left">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mawandemadolo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 **`Current Learning Path`**
-
-<div align="left">
-
-```mermaid
-graph TD
-    A[🏗️ Infrastructure Expert] --> B[⚙️ Backend Developer]
-    B --> C[☁️ Cloud-Native Engineer]
-    C --> D[🎯 Software Architect]
-    
-    A --> E[30+ AWS Services]
-    A --> F[Linux Systems]
-    B --> G[Java/Python APIs]
-    B --> H[Database Design]
-    C --> I[Containers/Serverless]
-    C --> J[Microservices]
-```
-
-</div>
-
 ### 🔥 **`Focus Areas`**
 
 #### 🔧 **`Backend APIs`**
