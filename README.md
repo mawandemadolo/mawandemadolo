@@ -1,14 +1,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mawandemadolo&color=blueviolet&style=for-the-badge)
 
-# 👋 Hello, I'm Mawande!
+# Hello, I'm Mawande!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=36BCF7&width=850&lines=🔥+Experienced+Cloud+Support+Engineer;⚡+Deep+expertise+in+AWS+services+%26+Linux;🎯+Building+comprehensive+software+engineering+skills;🚀+Scalable+backend+development+%26+cloud-native+solutions;💡+Bridging+operations+and+development+through+innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=36BCF7&width=850&lines=+SDE+on+the+EC2+Diagnosis+and+Analysis+team+at+AWS;+Building+systems+that+monitor+the+global+EC2+fleet;+Automating+anomaly+detection+%26+root+cause+analysis;+Integrating+Amazon+Bedrock+%26+LLMs+for+intelligent+debugging;+Fascinated+by+clean+architecture+%26+low+operational+burden
+)
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 ### **Programming & Scripting**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -42,7 +44,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white%22)
 
 ### **Operating Systems**
-![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white)
@@ -54,7 +56,7 @@
 
 ---
 
-## 🤝 **Let's Connect!**
+## **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawandemadolo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mawandemadolo)
